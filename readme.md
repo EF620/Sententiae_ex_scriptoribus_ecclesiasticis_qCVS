@@ -1,6 +1,4 @@
 
-
-```markdown
 # Quote Extractor & Random Quote Tool
 
 Этот проект на Go позволяет:
